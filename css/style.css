@@ -111,6 +111,6 @@ h4 {
 
     .wrapper {
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; 
     }
 }
