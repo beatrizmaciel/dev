@@ -108,4 +108,9 @@ h4 {
     .content, .principal li{
         margin: 0 10px;
     }
+
+    .wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
 }
